@@ -1,5 +1,5 @@
 # Acceptable Risk
-<strong>CISSP Glossary - Student Guide</strong> 
+<strong>CISSP Glossary - Student Guide</strong> <br>
 (Source : <a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a>)<br>
 <table>
   <tr>
@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<strong>NIST Glossary</strong> 
+<strong>NIST Glossary</strong> <br>
 (Source :<a href="https://csrc.nist.gov/glossary/term/acceptable_risk" target="_blank">https://csrc.nist.gov/glossary/term/acceptable_risk</a>)<br>
 <table>
   <tr>
