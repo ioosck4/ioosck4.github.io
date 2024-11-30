@@ -1,5 +1,5 @@
 # Acceptable Risk
-<strong>CISSP Glossary - Student Guide</strong>(Source : <a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a>)<br>
+<strong>CISSP Glossary - Student Guide</strong> (Source : <a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a>)<br>
 <table>
   <tr>
     <th>Tools for translate</th>
