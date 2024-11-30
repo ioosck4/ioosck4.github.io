@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <th>Source</th>
-    <td>https://www.isc2.org/certifications/cissp/cissp-student-glossary</td>
+    <td><a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a></td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <th>Source</th>
-    <td>https://csrc.nist.gov/glossary/term/acceptable_risk</td>
+    <td><a href="https://csrc.nist.gov/glossary/term/acceptable_risk" target="_blank">https://csrc.nist.gov/glossary/term/acceptable_risk</a></td>
   </tr>
 </table>
 
