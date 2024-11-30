@@ -1,5 +1,5 @@
 # Acceptable Risk
-<strong>CISSP Glossary</strong> <br>
+<strong>CISSP Glossary - Student Guide</strong>(Source : <a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a>)<br>
 <table>
   <tr>
     <th>Tools for translate</th>
@@ -17,13 +17,9 @@
     <th>Gemini</th>
     <td>ระดับความเสี่ยงที่เหมาะสม ซึ่งสอดคล้องกับผลประโยชน์ที่อาจเกิดขึ้นจากการดำเนินงานขององค์กร ตามที่ได้รับการกำหนดโดยผู้บริหารระดับสูง</td>
   </tr>
-  <tr>
-    <th>Source</th>
-    <td><a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary" target="_blank">https://www.isc2.org/certifications/cissp/cissp-student-glossary</a></td>
-  </tr>
 </table>
 
-<strong>NIST Glossary</strong><br>
+<strong>NIST Glossary</strong> (Source :<a href="https://csrc.nist.gov/glossary/term/acceptable_risk" target="_blank">https://csrc.nist.gov/glossary/term/acceptable_risk</a>)<br>
 <table>
   <tr>
     <th>Tools for translate</th>
@@ -40,10 +36,6 @@
   <tr>
     <th>Gemini</th>
     <td>ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับความสูญเสีย/การหยุดชะงักที่อาจเกิดขึ้นได้ในระดับที่สมเหตุสมผลสำหรับระบบไอทีเฉพาะเจาะจง (ดู ความเสี่ยงทั้งหมด, ความเสี่ยงตกค้าง, และ ระดับการป้องกันขั้นต่ำ)</td>
-  </tr>
-  <tr>
-    <th>Source</th>
-    <td><a href="https://csrc.nist.gov/glossary/term/acceptable_risk" target="_blank">https://csrc.nist.gov/glossary/term/acceptable_risk</a></td>
   </tr>
 </table>
 
