@@ -1,4 +1,3 @@
-Acceptable Risk
 <strong>CISSP Glossary</strong> <br>
 <table>
   <tr>
@@ -20,10 +19,24 @@ Acceptable Risk
 </table>
 
 <strong>NIST Glossary</strong><br>
-Original : the level of Residual Risk that has been determined to be a reasonablelevel of potential loss/disruption for a specific IT system. (See Total Risk, Residual Risk, and Minimum Level of Protection.)<br>
-ChatGPT : ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับที่เหมาะสมสำหรับความสูญเสียหรือความเสียหายที่อาจเกิดขึ้นกับระบบ IT เฉพาะ (ดูเพิ่มเติมใน ความเสี่ยงทั้งหมด ความเสี่ยงตกค้าง และระดับการป้องกันขั้นต่ำ)<br>
-Gemini : ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับความสูญเสีย/การหยุดชะงักที่อาจเกิดขึ้นได้ในระดับที่สมเหตุสมผลสำหรับระบบไอทีเฉพาะเจาะจง (ดู ความเสี่ยงทั้งหมด, ความเสี่ยงตกค้าง, และ ระดับการป้องกันขั้นต่ำ)<br>
-Source : https://csrc.nist.gov/glossary/term/acceptable_risk<br>
+<table>
+  <tr>
+    <th>Original</th>
+    <td>the level of Residual Risk that has been determined to be a reasonablelevel of potential loss/disruption for a specific IT system. (See Total Risk, Residual Risk, and Minimum Level of Protection.)</td>
+  </tr>
+  <tr>
+    <th>ChatGPT</th>
+    <td>ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับที่เหมาะสมสำหรับความสูญเสียหรือความเสียหายที่อาจเกิดขึ้นกับระบบ IT เฉพาะ (ดูเพิ่มเติมใน ความเสี่ยงทั้งหมด ความเสี่ยงตกค้าง และระดับการป้องกันขั้นต่ำ)</td>
+  </tr>
+  <tr>
+    <th>Gemini</th>
+    <td>ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับความสูญเสีย/การหยุดชะงักที่อาจเกิดขึ้นได้ในระดับที่สมเหตุสมผลสำหรับระบบไอทีเฉพาะเจาะจง (ดู ความเสี่ยงทั้งหมด, ความเสี่ยงตกค้าง, และ ระดับการป้องกันขั้นต่ำ)</td>
+  </tr>
+  <tr>
+    <th>Source</th>
+    <td>https://csrc.nist.gov/glossary/term/acceptable_risk</td>
+  </tr>
+</table>
 
 - Myself : 
 เป็นระดับความเสี่ยงที่ยอมรับได้ โดยกำหนดจากความเสียหายที่เหมาะสมซึ่งสามารถจัดการและรับมือได้ภายหลังหรือไม่เกิดความเสียหายมากจนเกินไปบนระบบต่างๆ
