@@ -1,5 +1,10 @@
+# Acceptable Risk
 <strong>CISSP Glossary</strong> <br>
 <table>
+  <tr>
+    <th>Tools for translate</th>
+    <th>Meaning</th>
+  </tr>
   <tr>
     <th>Original</th>
     <td>A suitable level of risk commensurate with the potential benefits of the organization’s operations as determined by senior management.</td>
@@ -20,6 +25,10 @@
 
 <strong>NIST Glossary</strong><br>
 <table>
+  <tr>
+    <th>Tools for translate</th>
+    <th>Meaning</th>
+  </tr>
   <tr>
     <th>Original</th>
     <td>the level of Residual Risk that has been determined to be a reasonablelevel of potential loss/disruption for a specific IT system. (See Total Risk, Residual Risk, and Minimum Level of Protection.)</td>
