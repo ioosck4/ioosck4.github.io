@@ -4,18 +4,21 @@
     <th>Original</th>
     <th>ChatGPT</th>
     <th>Gemini</th>
+    <th>Source</th>
   </tr>
   <tr>
     <th>CISSP Glossary</th>
     <td>A suitable level of risk commensurate with the potential benefits of the organization’s operations as determined by senior management.</td>
     <td>ระดับความเสี่ยงที่เหมาะสมสอดคล้องกับผลประโยชน์ที่เป็นไปได้จากการดำเนินงานขององค์กร ซึ่งกำหนดโดยผู้บริหารระดับสูง</td>
     <td>ระดับความเสี่ยงที่เหมาะสม ซึ่งสอดคล้องกับผลประโยชน์ที่อาจเกิดขึ้นจากการดำเนินงานขององค์กร ตามที่ได้รับการกำหนดโดยผู้บริหารระดับสูง</td>
+    <td>https://www.isc2.org/certifications/cissp/cissp-student-glossary</td>
   </tr>
   <tr>
     <th>NIST Glossary</th>
     <td>the level of Residual Risk that has been determined to be a reasonablelevel of potential loss/disruption for a specific IT system. (See Total Risk, Residual Risk, and Minimum Level of Protection.)</td>
     <td>ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับที่เหมาะสมสำหรับความสูญเสียหรือความเสียหายที่อาจเกิดขึ้นกับระบบ IT เฉพาะ (ดูเพิ่มเติมใน ความเสี่ยงทั้งหมด ความเสี่ยงตกค้าง และระดับการป้องกันขั้นต่ำ)</td>
     <td>ระดับความเสี่ยงตกค้างที่ได้รับการกำหนดว่าเป็นระดับความสูญเสีย/การหยุดชะงักที่อาจเกิดขึ้นได้ในระดับที่สมเหตุสมผลสำหรับระบบไอทีเฉพาะเจาะจง (ดู ความเสี่ยงทั้งหมด, ความเสี่ยงตกค้าง, และ ระดับการป้องกันขั้นต่ำ)</td>
+    <td>https://csrc.nist.gov/glossary/term/acceptable_risk</td>
   </tr>
 </table>
 
