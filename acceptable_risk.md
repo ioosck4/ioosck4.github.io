@@ -2,19 +2,19 @@ Acceptable Risk
 <strong>CISSP Glossary</strong> <br>
 <table>
   <tr>
-    <tm>Original</tm>
+    <th>Original</th>
     <td>A suitable level of risk commensurate with the potential benefits of the organization’s operations as determined by senior management.</td>
   </tr>
   <tr>
-    <tm>ChatGPT</tm>
+    <th>ChatGPT</th>
     <td>ระดับความเสี่ยงที่เหมาะสมสอดคล้องกับผลประโยชน์ที่เป็นไปได้จากการดำเนินงานขององค์กร ซึ่งกำหนดโดยผู้บริหารระดับสูง</td>
   </tr>
   <tr>
-    <tm>Gemini</tm>
+    <th>Gemini</th>
     <td>ระดับความเสี่ยงที่เหมาะสม ซึ่งสอดคล้องกับผลประโยชน์ที่อาจเกิดขึ้นจากการดำเนินงานขององค์กร ตามที่ได้รับการกำหนดโดยผู้บริหารระดับสูง</td>
   </tr>
   <tr>
-    <tm>Source</tm>
+    <th>Source</th>
     <td>https://www.isc2.org/certifications/cissp/cissp-student-glossary</td>
   </tr>
 </table>
