@@ -24,4 +24,4 @@
 2. [Natnicha Nontraudon]
 3. [Supawadee Muangprasert](https://donyweasley.github.io/boardgame/)
 4. [Jakapob Siwakulrangsun](https://ioosck4.github.io/boardgame) 
-5. [Tanatorn Jitsatsawan]
+5. [Tanatorn Jitsatsawan](https://6530200207.github.io/boardgame)
