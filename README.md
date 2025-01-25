@@ -4,4 +4,4 @@
 1. [InfoSysSec Glossary : Acceptable Risk](acceptable-risk)
 2. [New Years Card](newsyearscard)
 3. [Timeliness](timeliness)
-4. [Board Games]
+4. [Board Games](boardgame)
